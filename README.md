@@ -1,6 +1,6 @@
 # eedomus script : Rain trend
 
-Version : 1.0
+Version : 1.1
 
 Auteur : [Nikya](https://github.com/Nikya)
 

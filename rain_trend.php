@@ -5,7 +5,7 @@
 * Pour connaitre les prévisions pluvieuses des prochaines 48h
 ********************************************************************************
 * Version :
-*	1.0
+*	1.1
 *
 * Auteur :
 *	Nikya
@@ -79,12 +79,14 @@ IN_XML;
 $content_type = 'text/xml';
 sdk_header($content_type);
 
+$rainyTrendStr = $rainyTrend ? '1' : '0';
+
 echo <<<OUT_XML
 <data>
 	<cityId>$cityId</cityId>
 	<slotCnt>$slotCnt</slotCnt>
 	<cityName>$cityName</cityName>
-	<rainyTrend>$rainyTrend</rainyTrend>
+	<rainyTrend>$rainyTrendStr</rainyTrend>
 	<slots>
 		$inXml
 	</slots>
