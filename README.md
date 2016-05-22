@@ -126,5 +126,5 @@ Renseigner les paramètres suivants :
 - Fréquence de la requête : `30`
 - Variables utilisateur :
 	- [VAR1] : `Localhost`
-	- [VAR2] : `150140` (Le code API du périphérique)
-	- [VAR3] : `3` (slotCnt)
+	- [VAR2] : `150140` (Le cityId)
+	- [VAR3] : `3` (Le slotCnt)
