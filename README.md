@@ -10,7 +10,7 @@ Auteur : [Nikya](https://github.com/Nikya)
 
 Il permet de connaitre les prévisions pluvieuses des `x` prochaines heures (de 3 à 48h).
 
-Il se base sur les prévisions de [Météo France](http://www.meteo-france.mobi/home#!france)
+Il se base sur les *prévisions à 48h* de [Météo France](http://www.meteo-france.mobi/home#!france)
 
 ## Installation
 1. Télécharger le projet sur GitHub : [github.com/Nikya/eedomusScript_rainTrend](https://github.com/Nikya/eedomusScript_rainTrend/archive/master.zip)
