@@ -1,5 +1,8 @@
 # eedomus script : Rain trend
 
+# HS !
+Suite à un changement majeur de la structure le l'API utilisé, ce script n'est plus opérationel.
+
 Version : 1.1
 
 Auteur : [Nikya](https://github.com/Nikya)
